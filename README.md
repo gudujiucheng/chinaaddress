@@ -1,5 +1,6 @@
 # chinaaddress
-地址库文件，创建一个免费的能返回地址json串的东东
+地址库文件（利用网页get到的数据截取，木有办法，不会服务器，不知道怎么玩）
+亲测好用。
 
 ##使用方法：
 >1、get请求，请求地址：https://github.com/gudujiucheng/chinaaddress/releases/tag/1.0
